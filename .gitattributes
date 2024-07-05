@@ -1,2 +1,9 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
+Data_数据/Andriatria_男科/男科5-13000.csv filter=lfs diff=lfs merge=lfs -text
+Data_数据/IM_内科/内科.txt filter=lfs diff=lfs merge=lfs -text
+Data_数据/IM_内科/内科5000-33000.csv filter=lfs diff=lfs merge=lfs -text
+Data_数据/OAGD_妇产科/妇产科6-28000.csv filter=lfs diff=lfs merge=lfs -text
+Data_数据/Oncology_肿瘤科/肿瘤科5-10000.csv filter=lfs diff=lfs merge=lfs -text
+Data_数据/Pediatric_儿科/儿科5-14000.csv filter=lfs diff=lfs merge=lfs -text
+Data_数据/Surgical_外科/外科5-14000.csv filter=lfs diff=lfs merge=lfs -text
