@@ -4,6 +4,9 @@
 来自：https://github.com/Toyhom/Chinese-medical-dialogue-data
 编码修改为UTF-8
 
+数据集：train_0001_of_0001.json
+MLX微调数据集：train.json
+
 ## 数据
 
 ### Data_数据中有6个文件夹分别是:
